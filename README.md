@@ -16,7 +16,7 @@ Website ini dibuat menggunakan PHP, MySQL, HTML, CSS, dan JavaScript.
 - Devi Putri Varadia (19250785)
 - Anggota 4 (NIM)
 - Anggota 5 (NIM)
-- Anggota 6 (NIM)
+- Julita Manalu (19252543)
 
 ---
 
